@@ -9,6 +9,11 @@
   width: 250px;
 }
 
+.footer-right li:hover {
+  color: black;
+  cursor: pointer;
+}
+
 footer {
   width: 900px;
   height: 50px;
