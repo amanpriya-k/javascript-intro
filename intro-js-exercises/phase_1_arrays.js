@@ -33,5 +33,9 @@ Array.prototype.transpose = function() {
   return result;
 };
 
-const matrix = [ [1, 2, 3], [4, 5, 6], [7, 8, 9] ];
-console.log(matrix.transpose());
+// const matrix = [ [1, 2, 3], [4, 5, 6], [7, 8, 9] ];
+// console.log(matrix.transpose());
+
+
+
+
